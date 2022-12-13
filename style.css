@@ -1,0 +1,86 @@
+.heading
+  {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: monospace;
+    
+  }
+  .examples{
+    background-color: lightblue;
+  }
+  .heading_div
+  {
+    float: none ; 
+    background: white ; 
+    padding: 10px; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+
+ .images{
+    width: 550px;
+    height: 300px;
+    border-radius: 10px;
+ }
+
+ .parts_heading{
+  font-size: 18px;
+  font-family: georgia;
+  font-weight: bold;
+ }
+
+ #Google_Lens{
+  width: 150;
+ }
+
+ a:visited{
+  font-style: normal;
+  color: aliceblue;
+  text-decoration: none;
+  font-family: monospace;
+ }
+ a:active{
+  font-style: normal;
+  color: aliceblue;
+  text-decoration: none;
+  font-family: monospace;
+ }
+ a:hover{
+  font-style: normal;
+  color: aliceblue;
+  text-decoration: none;
+  font-family: monospace;
+ }
+ a:link{
+  font-style: normal;
+  color: aliceblue;
+  text-decoration: none;
+  font-family: monospace;
+ }
+
+#byjus{
+  width:60;
+  border-radius: 5px;
+  margin-right: 10;
+}
+#thunk{
+  width: 22.5;
+  margin-right: 10;
+  border-radius: 5px;
+}
